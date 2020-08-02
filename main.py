@@ -7,7 +7,7 @@ display_height=600
 display_width = 800
 
 all_fonts=pygame.font.get_fonts() #all available fonts enumerated in all_fonts list
-faces=[pygame.image.load('images/x1.png'),pygame.image.load("images/x2.png"),pygame.image.load("images/x3.png"),pygame.image.load("images/x4.png"),pygame.image.load("images/x5.png"),pygame.image.load("images/x6.png")]
+faces=[pygame.image.load('x1.png'),pygame.image.load("x2.png"),pygame.image.load("x3.png"),pygame.image.load("x4.png"),pygame.image.load("x5.png"),pygame.image.load("x6.png")]
 #color tuples
 white = (255,255,255)
 black = (0,0,0)
